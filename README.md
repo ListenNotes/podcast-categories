@@ -1,6 +1,6 @@
 # Podcast Categories
 
-Apple Podcasts categories in JSON and YAML. Makes it easy to build a podcast category selector.
+[Apple Podcasts categories](https://podcasters.apple.com/support/1691-apple-podcasts-categories) in JSON and YAML. Makes it easy to build a podcast category selector.
 
 ## Download
 
